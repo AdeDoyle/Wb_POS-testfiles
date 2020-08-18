@@ -25,7 +25,7 @@
 7	as	as	PART	_	PartType=Vb	_	_	_	_
 8	biur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 9	sa	sa	PRON	_	PronType=Emp	_	_	_	_
-10	in	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
+10	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 11	so	so	PART	_	PronType=Dem	_	_	_	_
 12	ar	ar	SCONJ	_	_	_	_	_	_
 13	ropad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop|Voice=Act	_	_	_	_
@@ -104,7 +104,7 @@
 12	ṅdǽ	día	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	et	_	X	_	Foreign=Yes	_	_	_	_
 14	co	co	SCONJ	_	_	_	_	_	_
-15	na	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
+15	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
 16	roib	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 17	temel	temel	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
@@ -189,7 +189,7 @@
 # reference = 14d17
 # text = .i. co ní arim se peccad lib si uili ɫ. ara tart sa fortacht dúib si ar na p trom fuirib for nóinur
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	co	co	co	SCONJ	_	_	_	_	_	_
+2	co	co	SCONJ	_	_	_	_	_	_
 3	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 4	arim	adrími	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 5	se	se	PRON	_	PronType=Emp	_	_	_	_
@@ -251,7 +251,7 @@
 5	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop|Voice=Act	_	_	_	_
 6	torbe	torbae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	són	són	PRON	_	PronType=Ana	_	_	_	_
-8	co	co	co	SCONJ	_	_	_	_	_	_
+8	co	co	SCONJ	_	_	_	_	_	_
 9	eter	eter	PART	_	PartType=Vb	_	_	_	_
 10	certa	etarcerta	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 11	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
@@ -330,7 +330,7 @@
 20	et	_	X	_	Foreign=Yes	_	_	_	_
 21	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 22	ssapati	sabait	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-23	act		acht	SCONJ	_	_	_	_	_	_
+23	act	acht	SCONJ	_	_	_	_	_	_
 24	bad	is	AUX	_	Mood=Imp|Number=Sing|Person=3|Polarity=Pos|VerbType=Cop|Voice=Act	_	_	_	_
 25	foirbthe	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 26	far	far	PRON	_	Number=Plur|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
@@ -386,7 +386,7 @@
 2	co	co	SCONJ	_	_	_	_	_	_
 3	no	no	PART	_	PartType=Vb	_	_	_	_
 4	s	s	PRON	_	Number=Plur|Person=3|PronClass=A|PronType=Prs	_	_	_	_
-5	berinn	beirid	VERB	_		Mood=Sub|Number=Sing|Person=1|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+5	berinn	beirid	VERB	_	Mood=Sub|Number=Sing|Person=1|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 6	dochum	dochum	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	hirisse	iress	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
@@ -437,7 +437,7 @@
 5	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	se	so	PART	_	PronType=Dem	_	_	_	_
 7	di	de	PRON	_	PronType=Prs	_	_	_	_
-8	chorp		corp	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+8	chorp	corp	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 9	act	acht	SCONJ	_	_	_	_	_	_
 10	a	at	PART	_	PartType=Vb	_	_	_	_
 11	tá	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -537,7 +537,7 @@
 5	cucuib	co	PRON	_	PronType=Prs	_	_	_	_
 6	si	si	PRON	_	PronType=Emp	_	_	_	_
 7	acht	acht	SCONJ	_	_	_	_	_	_
-8	ainfa	anaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act
+8	ainfa	anaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	_
 9	lib	la	PRON	_	PronType=Prs	_	_	_	_
 10	ar	ar	SCONJ	_	_	_	_	_	_
 11	nidad	is	AUX	_	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbType=Cop|Voice=Act	_	_	_	_
@@ -657,7 +657,7 @@
 2	ni	ní	PART	_	Polarity=Neg	_	_	_	_
 3	gessam	guidid	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 4	ni	ni	PRON	_	PronType=Emp	_	_	_	_
-5	níi	ní		PRON	_	PronType=Ind	_	_	_	_
+5	níi	ní	PRON	_	PronType=Ind	_	_	_	_
 6	bes	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop|Voice=Act	_	_	_	_
 7	chotarsne	cotarsnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 8	di	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -794,3 +794,4 @@
 8	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	mm	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 10	eícndarcus	éicndarcus	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+
