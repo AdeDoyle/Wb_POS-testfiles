@@ -742,6 +742,7 @@
 4	samlid	amal	ADV	_	_	_	_	_	_
 5	dúib	do	PRON	_	PronType=Prs	_	_	_	_
 6	cid	cía	SCONJ	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop|Voice=Act	_	_	_	_
-7	imm	i	ADP	_	AdpType=Prep|Definite=Ind|Poss=Yes|PronNum=Sing|PronPers=1|PronType=Prs	_	_	_	_
-8	eícndarcus	éicndarcus	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+7	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
+8	mm	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
+9	eícndarcus	éicndarcus	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
