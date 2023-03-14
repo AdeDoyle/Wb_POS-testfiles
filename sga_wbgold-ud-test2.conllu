@@ -34,7 +34,7 @@
 16	sa	sa	PRON	_	PronType=Emp	_	_	_	_
 17	labrad	labrad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	il	il	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
-19	belre	bélrae	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
+19	belre	bélrae	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 20	dúib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 21	si	si	PRON	_	PronType=Emp	_	_	_	_
 
